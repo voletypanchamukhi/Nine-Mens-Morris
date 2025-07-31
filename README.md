@@ -69,14 +69,6 @@ Represents a point on the board:
 
 ---
 
-## 📷 Screenshots
-
-*(Insert game screenshots here)*  
-`client/assets/game_board.png`  
-`client/assets/mill_highlight.png`
-
----
-
 ## 🙋‍♂️ Author
 
 **Volety Sriram Panchamukhi**  
