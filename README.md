@@ -1,7 +1,5 @@
 # ♟️ Nine Men's Morris – Python Game
 
-A player-vs-player version of the classic strategy board game **Nine Men's Morris**, implemented using **Python** and **Pygame**. This project recreates the traditional gameplay with an intuitive graphical interface, smooth mechanics for placing and moving pieces, mill detection, and win condition logic.
-
 ---
 
 ## 🎮 Gameplay Overview
